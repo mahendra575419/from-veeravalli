@@ -20,3 +20,13 @@ I like this food because is more *tasty*and spicy<br>
 
 > "I’m on a whiskey diet. I’ve lost three days already."  
 > *Tommy Cooper*
+
+---
+
+## code fencing
+> As my last number is 19 so i need to use sql snippet i.e 10.
+
+SELECT column1, column2, ...
+FROM table_name
+WHERE NOT condition;
+Quick link for the snippet source- https://code.pieces.app/collections/sql
